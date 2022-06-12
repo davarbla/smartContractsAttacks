@@ -1,6 +1,8 @@
 # Solidity Smart Contract Threads:
 
-"This repository compiles a comprehensive list of Solidity attack vectors, encompassing various vulnerabilities sourced from SWC Registry, DeFi threats, DASP Top-10, and other content sources across the internet. Each attack vector is clickable, providing detailed information. QuillAudits is committed to actively maintaining and updating this repository."
+"This repository compiles a comprehensive list of Solidity attack vectors, encompassing various vulnerabilities sourced from SWC Registry, DeFi threats, DASP Top-10, and other content sources across the internet. 
+Each attack vector is clickable, providing detailed information. 
+"
 
 ---
 | Attack Threads
